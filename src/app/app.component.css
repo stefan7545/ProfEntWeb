@@ -1,0 +1,20 @@
+header {
+    background: #00802F;
+}
+
+footer {
+    background-color: #00802F;
+}
+
+header, footer {
+    height: 20%;
+    padding: 8px;
+}
+
+header {
+    background: linear-gradient(left top, green, blue);
+}
+
+input {
+    margin: 100px 10px;
+}
